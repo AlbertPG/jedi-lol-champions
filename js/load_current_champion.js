@@ -1,11 +1,11 @@
 const championBaseUrl =
-  "http://ddragon.leagueoflegends.com/cdn/11.14.1/data/en_US/champion";
+  "https://ddragon.leagueoflegends.com/cdn/11.14.1/data/en_US/champion";
 
 const championImageBaseUrl =
   "https://ddragon.leagueoflegends.com/cdn/11.14.1/img/champion";
 
 const championSkinBaseUrl =
-  "http://ddragon.leagueoflegends.com/cdn/img/champion/splash";
+  "https://ddragon.leagueoflegends.com/cdn/img/champion/splash";
 
 const usersBaseUrl = "https://jedi-server.herokuapp.com/users";
 

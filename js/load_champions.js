@@ -1,5 +1,5 @@
 const championsUrl =
-  "http://ddragon.leagueoflegends.com/cdn/11.14.1/data/en_US/champion.json";
+  "https://ddragon.leagueoflegends.com/cdn/11.14.1/data/en_US/champion.json";
 
 const championImageBaseUrl =
   "https://ddragon.leagueoflegends.com/cdn/11.14.1/img/champion";
