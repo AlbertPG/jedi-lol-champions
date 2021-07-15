@@ -1,0 +1,19 @@
+body {
+  background-color: gainsboro;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.email {
+  color: white;
+  display: flex;
+  align-items: center;
+  margin-right: 1vw;
+}
+
+.account {
+  display: flex;
+}
+
+main > section {
+  padding-top: 2%;
+}

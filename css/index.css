@@ -1,0 +1,25 @@
+.champion-image {
+  width: 50%;
+  height: 50%;
+  margin-top: 10%;
+}
+
+.row > .col-md-3 {
+  padding-top: 2%;
+}
+
+div > a {
+  color: black;
+}
+
+.basic-info-table {
+  width: 20%;
+}
+
+.favourites-check-box {
+  padding-top: 2%;
+}
+
+.champion-list {
+  padding-bottom: 2%;
+}

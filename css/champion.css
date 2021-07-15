@@ -1,0 +1,37 @@
+section {
+  padding-bottom: 2%;
+}
+
+.row {
+  margin-top: 2%;
+}
+
+.row > h3 {
+  font-weight: bold;
+}
+
+section > h4 {
+  font-weight: bold;
+  color: midnightblue;
+}
+
+.carousel-caption {
+  position: relative;
+  left: 0;
+  top: 0;
+}
+
+.image {
+  width: 50%;
+  height: 50%;
+}
+
+@media screen and (max-width: 768px) {
+  .images {
+    display: none;
+  }
+}
+
+.favourite {
+  margin-top: 1%;
+}
